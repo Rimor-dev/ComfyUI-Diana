@@ -23,7 +23,7 @@ Meet Diana - your virtual assistant that brings personality to ComfyUI! She reac
 
 ```bash
 cd ComfyUI/custom_nodes/
-git clone https://github.com/yourusername/comfyui-diana.git
+git clone https://github.com/Rimor-dev/comfyui-diana.git
 ```
 
 # 🚀 First Run (IMPORTANT!)
