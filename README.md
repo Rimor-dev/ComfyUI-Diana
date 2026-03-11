@@ -1,6 +1,6 @@
 # 🧝 Diana - Interactive Assistant for ComfyUI (Alpha)
 
-<img src="screenshot_.png" alt="Diana" width="720">
+<img src="di.gif" alt="Diana" width="720">
 
 Meet Diana - your virtual assistant that brings personality to ComfyUI! She reacts to generation events, displays emotions, speaks phrases, and adds a touch of magic to your workflow.
 
