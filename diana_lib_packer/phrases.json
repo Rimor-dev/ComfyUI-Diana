@@ -1,0 +1,16 @@
+{
+    "name": "Diana",
+    "author": "Rimor",
+    "version": "1.0.0",
+    "color": "#d04069",
+    "bgcolor": "#1a1a1a",
+    "emotions": ["neutral", "waiting", "speaking", "happy", "surprised"],
+    "frame_count": 16,
+    "phrases": {
+        "greeting": ["Hello again, let's create something beautiful.", "Diana is here. Ready when you are.","Your digital muse has arrived."],
+        "start": ["Generating... this might be good.", "Here we go!", "Starting the magic..."],
+        "complete": ["Done! Take a look.", "Finished. I hope you like it.","Another masterpiece is born."],
+        "error": ["Oops. Something went wrong.","Error... maybe clean the queue?", "Memory's full. Let's free some space."],
+        "waiting": ["Still working... patience, my friend.", "Good things take time.", "I'm still here. Just so you know."]
+    }
+}
