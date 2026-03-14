@@ -15,6 +15,8 @@ Diana is an interactive assistant that lives in your ComfyUI workspace. She reac
 - ⏱️ **Idle Timer**: Random reactions after 11-13 minutes of inactivity
 - 🎯 **Smart Error Detection**: Detects both explicit errors and failed generations
 
+<img src="https://github.com/Rimor-dev/my-assets_/blob/main/assets/image_2.png" alt="Diana" width="720">
+
 # 📦 Installation
 
 ```bash
